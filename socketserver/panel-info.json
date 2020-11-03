@@ -1,0 +1,41 @@
+{
+    "elements": [
+        {
+            "id": "f0192441-9dac-4c38-857b-b12ee30a85cd",
+            "type": "image",
+            "properties": {
+                "src": "D:\\wd\\socketserver\\output\\f0192441-9dac-4c38-857b-b12ee30a85cd.png",
+                "height": 9555.8125,
+                "width": 1000,
+                "backgroundColor": {
+                    "a": 0,
+                    "r": 0,
+                    "g": 0,
+                    "b": 0
+                },
+                "color": {
+                    "a": 0,
+                    "r": 0,
+                    "g": 0,
+                    "b": 0
+                },
+                "depth": 0,
+                "left": 0,
+                "top": 0,
+                "areas": []
+            }
+        }
+    ],
+    "id": "f191a793-f5fe-4e29-84bc-09f75e0acadb",
+    "panelProperties": {
+        "x_loc": 0,
+        "y_loc": 0,
+        "z_loc": 2000,
+        "x_rot": 0,
+        "y_rot": 0,
+        "z_rot": 0,
+        "x_scale": 1,
+        "y_scale": 1,
+        "z_scale": 1
+    }
+}
